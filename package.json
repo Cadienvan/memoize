@@ -1,0 +1,26 @@
+{
+  "name": "@cadienvan/memoize",
+  "private": false,
+  "version": "1.0.0",
+  "description": "A low footprint function which takes another function as an input and caches the result of that function based on given arguments.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cache",
+    "function",
+    "memoize",
+    "memoization",
+    "memoization function",
+    "async",
+    "async function"
+  ],
+  "author": "Michael Di Prisco",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Cadienvan/memoize.git"
+  },
+  "license": "MIT"
+}
